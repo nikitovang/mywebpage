@@ -3,7 +3,7 @@ title: "Nikoleta Nikitova"
 ---
 I am a researcher in Psychology at the University of Glasgow. Currently undertaking my Masters degree in Research Methods. My work is concerned with the investigation of basic symptoms in shcizophrenia spectrum disorders. Taking part in the Basic Symptoms research team, under the direct supervision of Prof. Peter Uhlhaas at Glasgow University.
 
-!(images/me.jpg)
+![this is me at y graduation] (images/me.jpg)
 
 In the short term, my focus falls on looking at basic perceptual aberrations in the visual and auditory domains. I am looking to establish a connection between abnormalities in basic perceptual experiences and schiztypal traits in the general population as well as in patients with existing diagnosis of schizophrenia spectrum disorder.
 
