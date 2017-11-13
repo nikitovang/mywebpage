@@ -1,5 +1,7 @@
 ---
 title: "My Website Name"
+output_dir: "docs" 
+
 ---
 
 I am a postgraduate student in the University of Glasgow's
