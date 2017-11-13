@@ -1,7 +1,6 @@
 ---
 title: "Academic Background"
-output_dir: "docs" 
-output: html_document
+
 ---
 
 This is a short resume of what I have been working with and where my research interests lay.
