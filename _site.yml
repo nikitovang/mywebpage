@@ -7,3 +7,8 @@ output:
     theme: flatly  
 navbar:  
   title: "My First Webpage" 
+  left:
+    - text: "Home"
+      href: index.Rmd
+    - text: "Academic Record"
+      href: academicrecord.Rmd
