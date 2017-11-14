@@ -7,6 +7,7 @@ output:
     theme: flatly  
 navbar:
   title: "Nikoleta Nikitova"
+  subtitle: "MSc Psychology, University of Glasgow"
   left:
     - text: "Home"
       href: index.html
