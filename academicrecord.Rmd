@@ -1,59 +1,45 @@
 ---
 title: "Nikoleta Nikitova"
 subtitle: "MSc Psychology, University of Glasgow"
-
 ---
-
-<br> 
-<br> 
-<br> 
-
-##EDUCATION
-
-<br>
+<img style= "style = 'position:absolute; top:50px; right:90%" src="images/UoG.jpg">
 <br> 
 <br> 
 
-#2018      MSc, Research Methods
+#**EDUCATION**
+
+<br> 
+
+###**2018      MSc, Research Methods**
 
 <br>
 
 Currently completing my Masters Degree in Reseach Methods at the University of Glasgow.
 
-<br>
-
 Developing a project on abnormalities in basic perceptual experiences and their relationship with shcizotypal traits in the general populaiton.
 
 <br>
 
-#2017      BSc Psychology
+###**2017      BSc Psychology**
 
 <br>
 
 Completed undergraduate dergee in Psychology at the University of Glasgow.
 
-<br>
-
 Dissertation: Changes in attentional bias in response to a mild stress induction procedure and its effect on self-reported mood ratings in participants with high and low symptoms of dysphoria.
-
-<br>
 
 Listed on the University Merit List for excellent examination performance, 2015-2016.
 
-<br>
-<br> 
 <br> 
 
-##RESEARCH RELATED SKILLS
+#**RESEARCH RELATED SKILLS**
 
 <br>
-<br>
-<br>
 
-**SPSS** – experience in working with research data, creating datasets, performing statistical analysis; built up skills thtoughout university, personal projects and working
+* **SPSS** – experience in working with research data, creating datasets, performing statistical analysis; built up skills thtoughout university, personal projects and working
 
-**R** – competency in programming, in specific data wrangling and performing data alaysis; RStudio interface as proven to be a very useful tool when dealing with rich datasets, filtering information and effectively visualising data and results
+* **R** – competency in programming, in specific data wrangling and performing data alaysis; RStudio interface as proven to be a very useful tool when dealing with rich datasets, filtering information and effectively visualising data and results
 
-E-prime –  having prepared a mixed-design attention disengagement paradigm using emotional face; experience with extracting data and fixing glitches
+* **E-prime** –  having prepared a mixed-design attention disengagement paradigm using emotional face; experience with extracting data and fixing glitches
 
-Tobii eye-tracking system – experience working with participants and callibrating the aparatus
+* **Tobii eye-tracking system** – experience working with participants and callibrating the aparatus
