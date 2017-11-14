@@ -16,7 +16,7 @@ navbar:
     - text: "Research Interests"
       href: ResIntr.html
       menu:
-        - text: "Current Research"
+        - text: "Current research"
           href: Current.html
         - text: "Previous work"
           href: Previous.html

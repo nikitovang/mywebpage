@@ -1,25 +1,22 @@
 ---
-title: "Nikoleta Nikitova"
-subtitle: "MSc Psychology, University of Glasgow"
+title: "Background"
+author: "Nikitova, MSc University of Glasgow"
 ---
 
 
 <script>
    $(document).ready(function() {
      $head = $('#header');
-     $head.prepend('<img src=\"images/UoG.jpg\" style=\"float: right;width: 300px;\"/>')
+     $head.prepend('<img src=\"images/UoG.jpg\" style=\"float: right;width: 400px;\"/>')
    });
 </script>
 <br> 
-<br> 
 
 #**EDUCATION**
-
 <br> 
 
 ###**2018      MSc, Research Methods**
 
-<br>
 
 Currently completing my Masters Degree in Reseach Methods at the University of Glasgow.
 
@@ -29,7 +26,6 @@ Developing a project on abnormalities in basic perceptual experiences and their 
 
 ###**2017      BSc Psychology**
 
-<br>
 
 Completed undergraduate dergee in Psychology at the University of Glasgow.
 
@@ -41,7 +37,6 @@ Listed on the University Merit List for excellent examination performance, 2015-
 
 #**RESEARCH RELATED SKILLS**
 
-<br>
 
 * **SPSS** – experience in working with research data, creating datasets, performing statistical analysis; built up skills thtoughout university, personal projects and working
 

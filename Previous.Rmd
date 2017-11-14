@@ -1,11 +1,28 @@
 ---
-title: "Current"
+title: "Completed Projects"
+author: Nikitova, MSc University of Glasgow
 ---
 <br>
-I am currently working with Prof. Peter Uhlhaas from the University of Glasgow, member of the International Working Group on Basic Symptoms. Currently, we are investigating aberrant perceptual experiences, from the very basic visual and auditory type, and their association with schizotypal traits found in the general populaiton as well as in clinical samples.
+
+###**Changes in attentional bias in response to a mild stress induction procedure and its effect on self-reported mood ratings in participants with high and low symptoms of dysphoria (2017)**
+
+
+<img style="float: right;margin-left:20px" src="images/capture.png">
+
 <br>
-Our view is that there are subtle changes in perception that occur in schizophrenia which may have much greater importance for understanding of the disorder than currently believed. Therefore, we are now collecting online data from reports of pathology characteristic  audio visual aberrations from healthy participants. We are trying see if such experiences correlate measured shcizotypal personality traits, with the aim to later on compare the data with reports from clinically diagnosed patients.
+The study investigated the relationship between reaction times recorded during a dot-probe task where participants had to shift attention form emotional facial expressionin in order to respond to a target, and depression symptoms. We derived from the idea was that attention to positive and negative stimuli may be crucial to emotion regulation and that shifts in attention may be specifically impaired in participants who suffer from the disorder.Capture
+
 <br>
-If interested in contributing and spread the word about our project, the study can be accessed online. It contains a list of very specific questions about personal experiences and some very basic demographic data.
+In order to test emotion regulation via attention allocation, we asked participants to complete a modified dot-probe task with emotional facial expressions before and after beign induced to experience mild stress. The task paradigm was similar to the one applied in  Sanchez, Vazquez, Gomez, & Joormann (2014).
+
 <br>
-The project is supported by the University of Glasgow. It is done in association with Steven Silverstein, Rutgers University.
+You can read the study report [here](https://drive.google.com/file/d/0B0atL6rrN0sCUnRmSl9fOEUySVE/view?usp=sharing).
+
+<br>
+
+##Additional work
+
+<br>
+[Bilingualism and cognitive reserve in patients suffering from Alzheimer’sdisease: literature review of critical issues](https://drive.google.com/file/d/0B0atL6rrN0sCUlFVZGRqY1RzZ1U/view).
+
+

@@ -1,13 +1,10 @@
 ---
 title: "Nikoleta Galinova Nikitova"
-subtitle: "MSc Psychology, University of Glasgow"
+author: "MSc Psychology, University of Glasgow"
 ---
-
-
-<br>
 <img style="float: right;width: 35%;margin-left: 40px" src="images/me.jpg">
 <br>
-<br>
+
 I am a researcher in Psychology at the University of Glasgow. Currently undertaking my Masters degree in Research Methods. My work is concerned with the investigation of basic symptoms in shcizophrenia spectrum disorders. Taking part in the Basic Symptoms research team, under the direct supervision of Prof. Peter Uhlhaas at Glasgow University.
 
 <br>
