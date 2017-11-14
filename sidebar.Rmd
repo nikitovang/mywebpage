@@ -1,0 +1,12 @@
+---
+title: "sidebar"
+author: "Nikoleta Niktova"
+date: "11/14/2017"
+output: html_document
+---
+<html>
+  <body>
+      <div id="footer">
+			<p>123 Your Street, Anytown, State 12345-6789 | Tel: (555) 555-5555</p>
+		</div>
+	</body>

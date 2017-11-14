@@ -5,6 +5,7 @@ output:
   html_document:  
     self_contained: no  
     theme: flatly  
+    css: style.css
 navbar:
   title: "Nikoleta Nikitova"
   left:
@@ -12,3 +13,4 @@ navbar:
       href: index.html
     - text: "Academic Background"
       href: academicrecord.html
+  

@@ -2,7 +2,14 @@
 title: "Nikoleta Nikitova"
 subtitle: "MSc Psychology, University of Glasgow"
 ---
-<img style= "style = 'position:absolute; top:50px; right:90%" src="images/UoG.jpg">
+
+
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"images/UoG.jpg\" style=\"float: right;width: 300px;\"/>')
+   });
+</script>
 <br> 
 <br> 
 

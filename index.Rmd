@@ -2,6 +2,8 @@
 title: "Nikoleta Galinova Nikitova"
 subtitle: "MSc Psychology, University of Glasgow"
 ---
+
+
 <br>
 <img style="float: right;width: 35%;margin-left: 40px" src="images/me.jpg">
 <br>

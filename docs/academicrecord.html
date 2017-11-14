@@ -66,6 +66,7 @@ h6 {
 }
 </style>
 
+<link rel="stylesheet" href="style.css" type="text/css" />
 
 </head>
 
@@ -199,7 +200,13 @@ $(document).ready(function () {
 </div>
 
 
-<p><img style= "style = 'position:absolute; top:50px; right:90%" src="images/UoG.jpg"> <br> <br></p>
+<script>
+   $(document).ready(function() {
+     $head = $('#header');
+     $head.prepend('<img src=\"images/UoG.jpg\" style=\"float: right;width: 300px;\"/>')
+   });
+</script>
+<p><br> <br></p>
 <div id="education" class="section level1">
 <h1><strong>EDUCATION</strong></h1>
 <p><br></p>
