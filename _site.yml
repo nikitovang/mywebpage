@@ -13,4 +13,10 @@ navbar:
       href: index.html
     - text: "Academic Background"
       href: academicrecord.html
-  
+    - text: "Research Interests"
+      href: ResIntr.html
+      menu:
+        - text: "Current Research"
+          href: Current.html
+        - text: "Previous work"
+          href: Previous.html
