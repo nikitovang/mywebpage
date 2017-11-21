@@ -21,4 +21,4 @@ navbar:
         - text: "Previous work"
           href: Previous.html
     - text: "Contact"
-      href: contact.Rmd
+      href: contact.html
