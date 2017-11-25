@@ -2,7 +2,11 @@
 title: "Background"
 author: "Nikitova, MSc University of Glasgow"
 ---
-
+<head>
+<title>Font Awesome Icons</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
 
 <script>
    $(document).ready(function() {
@@ -12,7 +16,7 @@ author: "Nikitova, MSc University of Glasgow"
 </script>
 <br> 
 
-#**EDUCATION**
+# <i class="fa fa-graduation-cap"></i> **EDUCATION**
 <br> 
 
 ###**2018      MSc, Research Methods**
@@ -35,8 +39,8 @@ Listed on the University Merit List for excellent examination performance, 2015-
 
 <br> 
 
-#**RESEARCH RELATED SKILLS**
-
+# <i class="fa fa-line-chart"></i> **RESEARCH RELATED SKILLS**
+<br>
 
 * **SPSS** – experience in working with research data, creating datasets, performing statistical analysis; built up skills thtoughout university, personal projects and working
 
