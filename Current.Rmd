@@ -3,7 +3,6 @@ title: "Currently"
 author: "Nikitova, MSc University of Glasgow"
 ---
 
-
 <br>
 I am currently working with Prof. Peter Uhlhaas from the University of Glasgow, member of the International [Working Group on Basic Symptoms](https://basicsymptoms.org/about-us/). Currently, we are investigating aberrant perceptual experiences, from the very basic visual and auditory type, and their association with schizotypal traits found in the general populaiton as well as in clinical samples.
 
@@ -19,3 +18,16 @@ If interested in contributing and spread the word about our project, the study c
 
 <br>
 The project is supported by the University of Glasgow. It is done in association with Steven Silverstein, Rutgers University.
+
+<br>
+<br>
+
+<table style="float: bottom; width:1000px; background-color: #efeff2; border-radius:6px">
+<tr>
+<td style= "text-align: center; padding: 10px 0px 10px 1px;" >
+
+To take part in my study please register [HERE](http://experiments.psy.gla.ac.uk/experiments/assessment.php?id=262)
+
+</td>
+</tr>
+</table>
