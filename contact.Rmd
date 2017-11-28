@@ -4,34 +4,21 @@
 
 <html>
 <body>
-<style>
-h1 {
-font-size: 2em;
-padding: 20px}
-h2 {
-font-size: 1.5em;
-}
 
-</style>
 
-<h1> **Contact details: **
-</h1>
+<div height = "100%">
+
+<div style="text-align:left;font-size:2em; padding:20px;"> **Contact details: **
+</div>
 
 <hr align="left" width="500px">
 
-<table style="float: left; width:500px; background-color: #efeff2; border-radius:6px">
-<tr>
-<td style= "padding: 40px 0px 40px 40px;" >
+<div style="float: left; width:500px; background-color: #efeff2; border-radius:6px">
 
+<div style ="text-align:left; padding: 20px 0px 40px 40px;font-size:1.5em;" >
 
-<h2>
-58 Hillhead Street<br>
-Glasgow G12 8QB
-
-
-<br>
-<h2>
 58 Hillhead Street
+
 Glasgow G12 8QB
 
 <br>
@@ -40,15 +27,10 @@ Glasgow G12 8QB
 **e-mail**: 2088230n@student.gla.ac.uk
 
 &ensp; &ensp; &ensp; &ensp; &ensp; nikoleta.nikitova@gmail.com 
-</h2>
+</div>
 
-</td>
-</tr>
-</table>
-
-
-
-
+</div>
+</div>
 
 
 <script>
@@ -58,18 +40,17 @@ Glasgow G12 8QB
    });
 </script>
 <br> 
-</body>
-</html>
 
 
 
 
-<table style="position: absolute;right:100px;top:200px; width: 300px; height: 450px; background-color: rgba(0, 0, 0, 0);">
-<tr>
-<td>
+<div style="position: absolute;right:100px;top:200px; width: 300px; height: 450px; background-color: rgba(0, 0, 0, 0);">
 
 <a class="twitter-timeline" data-width="400px" data-height="400px" data-theme="light" style="position:absolute;left:500px" href="https://twitter.com/nikitovang?ref_src=twsrc%5Etfw">Tweets by nikitovang</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
+
+</body>
+</html>
