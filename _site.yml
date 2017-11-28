@@ -16,7 +16,6 @@ navbar:
     - text: "Academic Background"
       href: academicrecord.html
     - text: "Research Interests"
-      href: ResIntr.html
       menu:
         - text: "Current research"
           href: Current.html
