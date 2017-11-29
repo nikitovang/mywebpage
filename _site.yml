@@ -1,6 +1,13 @@
 name: "mywebpage"  
 author: "Nikoleta Nikitova"  
 output_dir: "docs"  
+output:  
+  html_document:
+    self_contained: no  
+    theme: spacelab
+    css: styles.css
+    include:
+      after_body: docs/footer.html
 navbar:
   title: "Nikoleta Nikitova"
   left:
@@ -16,8 +23,3 @@ navbar:
           href: Previous.html
     - text: "Contact"
       href: contact.html
-output:  
-  html_document:
-    self_contained: no  
-    theme: spacelab
-    css: styles.css
